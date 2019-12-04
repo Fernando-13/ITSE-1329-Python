@@ -1,1 +1,3 @@
-player_info = {'name': '_____', 'score': _____, 'age': _____}
+player_info = {'name': 'fernando', 'score': 13, 'age': 21}
+print(player_info)
+

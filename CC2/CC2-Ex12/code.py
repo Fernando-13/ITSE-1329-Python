@@ -3,3 +3,4 @@ while True:
     if command == 'sit':
         break
 print('*puppy dog sits*')
+print(command)

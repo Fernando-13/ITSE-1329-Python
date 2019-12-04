@@ -4,4 +4,5 @@ def count_at_symbols(phrase):
     for char in phrase:
         if char == '@':
             count += 1
-        return count
+    return count
+print(count_at_symbols('@@'))

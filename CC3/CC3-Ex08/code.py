@@ -1,2 +1,3 @@
 def fun_function(x):
-    _________________  # Fill in the blank
+    y = int(x) + 5  # Fill in the blank
+    return y

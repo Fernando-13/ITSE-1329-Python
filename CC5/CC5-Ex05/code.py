@@ -1,8 +1,9 @@
 # DO NOT TOUCH
-strings = ["Hippopoto", "monstro", "sesqui", "pedalio", "phobic"]
+strings = ["Hippopoto","monstro","sesqui","pedalio","phobic"]
 # DO NOT TOUCH
 
 result = ''
-for ____ in ______:
-    _____ = _____ + _____
-result = _____.upper()
+for line in strings:
+    result = result + line 
+result = result.upper()
+print(result)
